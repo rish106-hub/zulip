@@ -1,0 +1,21 @@
+web/tests/typeahead_helper.test.cjs
+  s_ea84d2d880e237::t_b869381aa62a1e 1156-1169
+web/src/typeahead_helper.ts
+  s_ea84d2d880e237::t_4670a123ef6126 263-271
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "229623f0c5c99596fc01fa0696f2182164ad300c",
+  "prompts": {},
+  "sessions": {
+    "s_ea84d2d880e237": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1d9e5130-82a2-4ba3-ab79-44b59121c990",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
